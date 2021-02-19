@@ -1,4 +1,4 @@
-### Hi everybody! My name is the BlackFemale Engineer! 🤗
+### Hi everybody! My name is The BlackFemale Engineer! 🤗
 
 ### My Focus 🤓
 I primarily like to focus on front-end or full-stack development! My projects (pinned below) have been reflections on my own interests and passions. With each, I maintain sleek modern, designs to maintain a scense of ease throughout the user experience despite the complexity of the apps themselves. 
